@@ -1,216 +1,216 @@
-.movie	,	320
-.accountants	,	120
-.credit	,	120
-.energy	,	120
-.gold	,	120
-.tires	,	120
-.apartments	,	60
-.claims	,	60
-.coach	,	60
-.coupons	,	60
-.delivery	,	60
-.finance	,	60
-.golf	,	60
-.healthcare	,	60
-.hockey	,	60
-.insure	,	60
-.io	,	60
-.jewelry	,	60
-.legal	,	60
-.memorial	,	60
-.pizza	,	60
-.restaurant	,	60
-.taxi	,	60
-.tennis	,	60
-.theater	,	60
-.tours	,	60
-.vin	,	60
-.wine	,	60
-.capital	,	50
-.careers	,	50
-.clinic	,	50
-.codes	,	50
-.condos	,	50
-.cruises	,	50
-.dating	,	50
-.dental	,	50
-.diamonds	,	50
-.engineering	,	50
-.expert	,	50
-.financial	,	50
-.flights	,	50
-.fund	,	50
-.furniture	,	50
-.holdings	,	50
-.holiday	,	50
-.lease	,	50
-.limo	,	50
-.maison	,	50
-.partners	,	50
-.recipes	,	50
-.store	,	50
-.surgery	,	50
-.tienda	,	50
-.university	,	50
-.ventures	,	50
-.viajes	,	50
-.villas	,	50
-.voyage	,	50
-.actor	,	40
-.cafe	,	40
-.camera	,	40
-.camp	,	40
-.chat	,	40
-.church	,	40
-.cleaning	,	40
-.deals	,	40
-.digital	,	40
-.direct	,	40
-.dog	,	40
-.gifts	,	40
-.glass	,	40
-.guide	,	40
-.immo	,	40
-.kitchen	,	40
-.life	,	40
-.market	,	40
-.mba	,	40
-.money	,	40
-.place	,	40
-.plumbing	,	40
-.plus	,	40
-.sarl	,	40
-.school	,	40
-.shoes	,	40
-.show	,	40
-.software	,	40
-.solar	,	40
-.style	,	40
-.team	,	40
-.tech	,	40
-.toys	,	40
-.world	,	40
-.academy	,	30
-.associates	,	30
-.bargains	,	30
-.bike	,	30
-.boutique	,	30
-.builders	,	30
-.cab	,	30
-.cards	,	30
-.care	,	30
-.cash	,	30
-.catering	,	30
-.cheap	,	30
-.clothing	,	30
-.coffee	,	30
-.community	,	30
-.computer	,	30
-.construction	,	30
-.consulting	,	30
-.contractors	,	30
-.cool	,	30
-.democrat	,	30
-.discount	,	30
-.domains	,	30
-.enterprises	,	30
-.estate	,	30
-.events	,	30
-.exchange	,	30
-.express	,	30
-.farm	,	30
-.fish	,	30
-.fitness	,	30
-.florist	,	30
-.football	,	30
-.foundation	,	30
-.gripe	,	30
-.house	,	30
-.how	,	30
-.immobilien	,	30
-.industries	,	30
-.investments	,	30
-.kaufen	,	30
-.land	,	30
-.limited	,	30
-.marketing	,	30
-.media	,	30
-.moda	,	30
-.news	,	30
-.online	,	30
-.parts	,	30
-.productions	,	30
-.properties	,	30
-.pub	,	30
-.rentals	,	30
-.repair	,	30
-.republican	,	30
-.services	,	30
-.singles	,	30
-.social	,	30
-.tools	,	30
-.town	,	30
-.training	,	30
-.vacations	,	30
-.vision	,	30
-.watch	,	30
-.works	,	30
-.zone	,	30
-.guru	,	28
-.haus	,	28
-.agency	,	20
-.cc	,	20
-.center	,	20
-.city	,	20
-.dance	,	20
-.directory	,	20
-.education	,	20
-.email	,	20
-.equipment	,	20
-.exposed	,	20
-.family	,	20
-.fyi	,	20
-.gallery	,	20
-.graphics	,	20
-.gratis	,	20
-.institute	,	20
-.international	,	20
-.live	,	20
-.lighting	,	20
-.management	,	20
-.me	,	20
-.network	,	20
-.photography	,	20
-.photos	,	20
-.reisen	,	20
-.report	,	20
-.reviews	,	20
-.run	,	20
-.schule	,	20
-.site	,	20
-.soccer	,	20
-.solutions	,	20
-.soy	,	20
-.studio	,	20
-.supplies	,	20
-.supply	,	20
-.support	,	20
-.systems	,	20
-.technology	,	20
-.tips	,	20
-.today	,	20
-.ninja	,	19
-.company	,	14
-.club	,	13
-.futbol	,	13
-.rocks	,	13
-.biz	,	12
-.business	,	12
-.co.uk	,	12
-.com	,	12
-.info	,	12
-.net	,	12
-.org	,	12
-.us	,	12
-.pictures	,	11
-.pw	,	9
+.movie, 320
+.accountants, 120
+.credit , 120
+.energy , 120
+.gold , 120
+.tires, 120
+.apartments , 60
+.claims , 60
+.coach, 60
+.coupons, 60
+.delivery , 60
+.finance, 60
+.golf , 60
+.healthcare , 60
+.hockey , 60
+.insure , 60
+.io , 60
+.jewelry, 60
+.legal, 60
+.memorial , 60
+.pizza, 60
+.restaurant , 60
+.taxi , 60
+.tennis , 60
+.theater, 60
+.tours, 60
+.vin, 60
+.wine , 60
+.capital, 50
+.careers, 50
+.clinic , 50
+.codes, 50
+.condos , 50
+.cruises, 50
+.dating , 50
+.dental , 50
+.diamonds , 50
+.engineering, 50
+.expert , 50
+.financial, 50
+.flights, 50
+.fund , 50
+.furniture, 50
+.holdings , 50
+.holiday, 50
+.lease, 50
+.limo , 50
+.maison , 50
+.partners , 50
+.recipes, 50
+.store, 50
+.surgery, 50
+.tienda , 50
+.university , 50
+.ventures , 50
+.viajes , 50
+.villas , 50
+.voyage , 50
+.actor, 40
+.cafe , 40
+.camera , 40
+.camp , 40
+.chat , 40
+.church , 40
+.cleaning , 40
+.deals, 40
+.digital, 40
+.direct , 40
+.dog, 40
+.gifts, 40
+.glass, 40
+.guide, 40
+.immo , 40
+.kitchen, 40
+.life , 40
+.market , 40
+.mba, 40
+.money, 40
+.place, 40
+.plumbing , 40
+.plus , 40
+.sarl , 40
+.school , 40
+.shoes, 40
+.show , 40
+.software , 40
+.solar, 40
+.style, 40
+.team , 40
+.tech , 40
+.toys , 40
+.world, 40
+.academy, 30
+.associates , 30
+.bargains , 30
+.bike , 30
+.boutique , 30
+.builders , 30
+.cab, 30
+.cards, 30
+.care , 30
+.cash , 30
+.catering , 30
+.cheap, 30
+.clothing , 30
+.coffee , 30
+.community, 30
+.computer , 30
+.construction , 30
+.consulting , 30
+.contractors, 30
+.cool , 30
+.democrat , 30
+.discount , 30
+.domains, 30
+.enterprises, 30
+.estate , 30
+.events , 30
+.exchange , 30
+.express, 30
+.farm , 30
+.fish , 30
+.fitness, 30
+.florist, 30
+.football , 30
+.foundation , 30
+.gripe, 30
+.house, 30
+.how, 30
+.immobilien , 30
+.industries , 30
+.investments, 30
+.kaufen , 30
+.land , 30
+.limited, 30
+.marketing, 30
+.media, 30
+.moda , 30
+.news , 30
+.online , 30
+.parts, 30
+.productions, 30
+.properties , 30
+.pub, 30
+.rentals, 30
+.repair , 30
+.republican , 30
+.services , 30
+.singles, 30
+.social , 30
+.tools, 30
+.town , 30
+.training , 30
+.vacations, 30
+.vision , 30
+.watch, 30
+.works, 30
+.zone , 30
+.guru , 28
+.haus , 28
+.agency , 20
+.cc , 20
+.center , 20
+.city , 20
+.dance, 20
+.directory, 20
+.education, 20
+.email, 20
+.equipment, 20
+.exposed, 20
+.family , 20
+.fyi, 20
+.gallery, 20
+.graphics , 20
+.gratis , 20
+.institute, 20
+.international, 20
+.live , 20
+.lighting , 20
+.management , 20
+.me , 20
+.network, 20
+.photography, 20
+.photos , 20
+.reisen , 20
+.report , 20
+.reviews, 20
+.run, 20
+.schule , 20
+.site , 20
+.soccer , 20
+.solutions, 20
+.soy, 20
+.studio , 20
+.supplies , 20
+.supply , 20
+.support, 20
+.systems, 20
+.technology , 20
+.tips , 20
+.today, 20
+.ninja, 19
+.company, 14
+.club , 13
+.futbol , 13
+.rocks, 13
+.biz, 12
+.business , 12
+.co.uk, 12
+.com, 12
+.info , 12
+.net, 12
+.org, 12
+.us , 12
+.pictures , 11
+.pw , 9
